@@ -1,0 +1,12 @@
+hardcodedNameSpace: null
+showVerionsTab: true
+showEnvVarsTab: false
+allowAutoApplyLimits: false
+name: tutorial-project
+title: tutorial-project
+logo: BellOutlined
+tags: []
+description: tutorial-project
+oneDeploymentPerCluster: false
+notAllowRemoveNamespace: true
+autoAddEnvVarsToDeployments: false
