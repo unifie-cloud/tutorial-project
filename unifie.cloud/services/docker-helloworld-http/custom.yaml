@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:1.14.2
+        image: "{{ .UnifieVar.image.MY_SERVICE_NAME }}"
         ports:
         - containerPort: 80
